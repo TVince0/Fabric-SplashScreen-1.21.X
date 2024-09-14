@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "net.tvince0.splashscreen.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "client": [
+    "client.SplashOverlayMixin"
+  ]
+}
